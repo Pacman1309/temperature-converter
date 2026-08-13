@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
     paddingTop: 20,
   },
   textoGrande: {
-    fontSize: 24,
+    fontSize: 22,
     fontWeight: 'bold',
+    textAlign: 'center',
   },
 });
